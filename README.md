@@ -60,7 +60,7 @@ function runGeminiApi(prompt){
 }
 ```
 
-## リンク集
-* (LINE for Business)[https://manager.line.biz/]
-* (LINE Developer Console)[https://developers.line.biz/console/]
-* (Google AI Studio)[https://aistudio.google.com]
+## リンク
+* [LINE for Business](https://manager.line.biz/)
+* [LINE Developer Console](https://developers.line.biz/console/)
+* [Google AI Studio](https://aistudio.google.com)
